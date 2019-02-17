@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh 'echo 'helcclo" '
+        sh 'echo helcclo '
       }
     }
   }
